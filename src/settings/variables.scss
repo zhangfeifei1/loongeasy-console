@@ -1,0 +1,23 @@
+// 左侧菜单样式
+$menuText:#eef3f3;
+$menuActiveText:#fff;
+$subMenuActiveText:#eef3f3;
+
+$menuBg:#267878;
+$menuHover:#015252;
+
+$subMenuBg:#015252;
+$subMenuHover:#003939;
+
+$sideBarWidth: 250px;
+
+:export {
+  menuText: $menuText;
+  menuActiveText: $menuActiveText;
+  subMenuActiveText: $subMenuActiveText;
+  menuBg: $menuBg;
+  menuHover: $menuHover;
+  subMenuBg: $subMenuBg;
+  subMenuHover: $subMenuHover;
+  sideBarWidth: $sideBarWidth;
+}
